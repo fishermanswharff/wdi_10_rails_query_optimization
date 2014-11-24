@@ -38,6 +38,7 @@ end
 
 group :production do
   gem 'rails_12factor'
+  gem 'factory_girl_rails'
 end
 
 ## Additional gems for query optimization demo
